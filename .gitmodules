@@ -1,0 +1,3 @@
+[submodule "event-app"]
+	path = event-app
+	url = https://github.com/sshah33/event-app.git
